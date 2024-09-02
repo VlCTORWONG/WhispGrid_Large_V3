@@ -5,6 +5,8 @@ The app lets you choose a model from the basic OpenAI Model, or lets you enter t
 This script uses [Whisper Timestamped](https://github.com/linto-ai/whisper-timestamped) to align words and sentences, and uses two Tiers, one for segments and one for words. 
 WhispGrid supports diarization based on [Riteshhere](https://github.com/riteshhere/Speaker_diarization)'s code. 
 
+This script has been modified to detect code switches between Mandarin, Cantonese and English using "zh" and "yue" with "whisper-large-v3".
+
 ## Functionalities
 
 - Multiple files support
