@@ -1,4 +1,4 @@
-# WhispGrid
+# WhispGrid using whisper-large-v3 model
 A little script to use OpenAI's [Whisper](https://github.com/openai/whisper) and is modified to use the whisper-large-v3 model https://huggingface.co/openai/whisper-large-v3 and then automatically create a TextGrid to use on [Praat](https://www.fon.hum.uva.nl/praat/). While a manual check is necessary, it saves some time. 
 The app lets you choose a model from the basic OpenAI Model, or lets you enter the name of a more specific model. The language can also be chosen.
 
