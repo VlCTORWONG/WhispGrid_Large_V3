@@ -6,8 +6,7 @@ This script uses [Whisper Timestamped](https://github.com/linto-ai/whisper-times
 WhispGrid supports diarization based on [Riteshhere](https://github.com/riteshhere/Speaker_diarization)'s code. 
 
 This script has been modified to detect code switches between Mandarin, Cantonese and English using "zh" and "yue" with "whisper-large-v3".
-Use "whispgrid_large_v3.py" for only sentence tier level transcription.
-Use "whispgrid_large_v3_words.py" for sentence and word tier level transcriptions.
+The script "whispgrid_large_v3.py" is used for only sentence tier level transcription and the script "whispgrid_large_v3_words.py" is used for sentence and word tier level transcriptions.
 
 ## Functionalities
 
