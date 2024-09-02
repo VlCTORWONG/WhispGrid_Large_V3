@@ -8,5 +8,5 @@ tkinter_tooltip==2.1.0
 torch>==2.1.0
 whisper==1.1.10
 whisper_timestamped==1.12.20
-praatio==3.6.8
+praatio==6.2.0
 transformers==4.44.2
